@@ -1,0 +1,6 @@
+{
+  "name": "@project/svelte",
+  "dependencies": {
+    "svelte": "^4.2.15"
+  }
+}

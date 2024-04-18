@@ -1,0 +1,6 @@
+{
+  "name": "@project/vue",
+  "dependencies": {
+    "vue": "^3.4.23"
+  }
+}
